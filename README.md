@@ -5,3 +5,5 @@ There are two versions of the bottom of the case, one is a clean version, while 
 When cutting pin headers for the Xplained Mini, make sure that the ends don't stick out too much, as they might get caught on the top half of the case.
 
 I originally printed my case on a Bambu A1 Mini with a 0.4mm nozzle.
+
+11242025: The mountable version of the bottom case has not yet been tested in terms of fit.
