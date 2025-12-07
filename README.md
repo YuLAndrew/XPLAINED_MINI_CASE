@@ -7,3 +7,5 @@ When cutting pin headers for the Xplained Mini, make sure that the ends don't st
 I originally printed my case on a Bambu A1 Mini with a 0.4mm nozzle.
 
 11242025: The mountable version of the bottom case has not yet been tested in terms of fit.
+
+12042025: Mountable version has been tested and fits as expected
