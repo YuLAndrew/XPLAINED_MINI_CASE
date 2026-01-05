@@ -9,3 +9,5 @@ I originally printed my case on a Bambu A1 Mini with a 0.4mm nozzle.
 11242025: The mountable version of the bottom case has not yet been tested in terms of fit.
 
 12042025: Mountable version has been tested and fits as expected
+
+01/05/2026: Now on MakerWorld! https://makerworld.com/en/models/2205231-xplained-mini-case#profileId-2396475
